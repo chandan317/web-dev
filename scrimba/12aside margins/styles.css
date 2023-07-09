@@ -1,0 +1,22 @@
+body {
+}
+.red {
+  background: red;
+  height: 100px;
+  /* margin-top: 10px;
+  margin-left:50px;
+  margin-right: 100px;
+  margin-bottom:100px; */
+  margin-bottom: 05px;
+
+}
+.blue {
+  background: blue;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.green {
+  background: green;
+  height: 100px;
+}
